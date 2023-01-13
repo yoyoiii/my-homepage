@@ -22,23 +22,23 @@
 		"ul": {
 			"first": {
 				"href": "https://blog.csdn.net/sinat_35026778",
-				"icon": "bokeyuan",
+				"icon": "blog",
 				"text": "Blog"
 			},
 			"second": {
 				"href": "about/",
-				"icon": "xiaolian",
+				"icon": "banaixin",
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:simon@tomotoes.com",
-				"icon": "email",
-				"text": "Email"
+				"href": "http://172.30.66.122:8001/",
+				"icon": "lvhang1",
+				"text": "Travel"
 			},
 			"fourth": {
-				"href": "https://github.com/tomotoes",
-				"icon": "github",
-				"text": "Github"
+				"href": "/cv-test.pdf",
+				"icon": "wodejianli",
+				"text": "Resume"
 			}
 		}
 	}
