@@ -5,14 +5,14 @@
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "Simon Ma",
+		"title": "Youyi Z",
 		"subtitle": "Front back left right end engineer",
 		"enter": "enter",
 		"supportAuthor": false,
 		"background": true
 	},
 	"main": {
-		"name": "Simon Ma",
+		"name": "Youyi Z",
 		"signature": "Code & Input & Output",
 		"avatar": {
 			"link": "assets/avatar.jpg",
@@ -31,7 +31,7 @@
 				"text": "About"
 			},
 			"third": {
-				"href": "http://172.30.66.122:8001/",
+				"href": "/my-travel-map",
 				"icon": "lvhang1",
 				"text": "Travel"
 			},
